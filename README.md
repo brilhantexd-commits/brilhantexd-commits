@@ -1,4 +1,4 @@
-brilhantexd-commits/brilhantexd-commitss# 👩🏻‍💻 Brilhantex
+# 👩🏻‍💻 Brilhantex
 
 **`Desenvolvedor C# `**
 
